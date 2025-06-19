@@ -1,0 +1,15 @@
+/workspaces/dotnet-app/bin/Debug/net8.0/dotnet-app
+/workspaces/dotnet-app/bin/Debug/net8.0/dotnet-app.deps.json
+/workspaces/dotnet-app/bin/Debug/net8.0/dotnet-app.runtimeconfig.json
+/workspaces/dotnet-app/bin/Debug/net8.0/dotnet-app.dll
+/workspaces/dotnet-app/bin/Debug/net8.0/dotnet-app.pdb
+/workspaces/dotnet-app/obj/Debug/net8.0/dotnet-app.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dotnet-app/obj/Debug/net8.0/dotnet-app.AssemblyInfoInputs.cache
+/workspaces/dotnet-app/obj/Debug/net8.0/dotnet-app.AssemblyInfo.cs
+/workspaces/dotnet-app/obj/Debug/net8.0/dotnet-app.csproj.CoreCompileInputs.cache
+/workspaces/dotnet-app/obj/Debug/net8.0/dotnet-app.sourcelink.json
+/workspaces/dotnet-app/obj/Debug/net8.0/dotnet-app.dll
+/workspaces/dotnet-app/obj/Debug/net8.0/refint/dotnet-app.dll
+/workspaces/dotnet-app/obj/Debug/net8.0/dotnet-app.pdb
+/workspaces/dotnet-app/obj/Debug/net8.0/dotnet-app.genruntimeconfig.cache
+/workspaces/dotnet-app/obj/Debug/net8.0/ref/dotnet-app.dll
